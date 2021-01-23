@@ -15,7 +15,7 @@ state = {
       image: "https://web.facebook.com/photo?fbid=1619894938095576&set=a.100317850053300",
       work: "Full stack Zoom host",
       location: "Irbid, Jordan",
-      info: "I enjoy hosting zoom meetings and I don't mind being the Co-Host",
+      info: "",
       facebook: "https://web.facebook.com/hamzeh.obaidat.5/",
       linkedin: "https://www.linkedin.com/in/hamzeh-obeidat/",
       github: "https://github.com/Hamzehobeidat"
@@ -27,7 +27,7 @@ state = {
       image: "https://web.facebook.com/photo?fbid=1619894938095576&set=a.100317850053300",
       work: "Full stack ",
       location: "Amman, Jordan",
-      info: "I enjoy hosting zoom meetings and I don't mind being the Co-Host",
+      info: "",
       facebook: "https://web.facebook.com/hamzeh.obaidat.5/",
       linkedin: "https://www.linkedin.com/in/hamzeh-obeidat/",
       github: "https://github.com/Hamzehobeidat"
@@ -40,7 +40,7 @@ state = {
       image: "https://web.facebook.com/photo?fbid=1619894938095576&set=a.100317850053300",
       work: "Full stack ",
       location: "Irbid, Jordan",
-      info: "I enjoy hosting zoom meetings and I don't mind being the Co-Host",
+      info: "",
       facebook: "https://web.facebook.com/hamzeh.obaidat.5/",
       linkedin: "https://www.linkedin.com/in/hamzeh-obeidat/",
       github: "https://github.com/Hamzehobeidat"
@@ -52,7 +52,7 @@ state = {
       image: "https://web.facebook.com/photo?fbid=1619894938095576&set=a.100317850053300",
       work: "Full stack ",
       location: "Amman, Jordan",
-      info: "I enjoy hosting zoom meetings and I don't mind being the Co-Host",
+      info: "",
       facebook: "https://web.facebook.com/hamzeh.obaidat.5/",
       linkedin: "https://www.linkedin.com/in/hamzeh-obeidat/",
       github: "https://github.com/Hamzehobeidat"
